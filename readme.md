@@ -11,3 +11,7 @@ Second, you have to create a blob. To do this you use the zipper script, and put
 ## 3: Final script
 
 Copy the blob from before and put it into the stealer script. once you have done this you have a functional python file. If you want to get an exe use [pyinstaller](https://pyinstaller.org/en/stable/) (pyinstaller Stealer.py --onefile)
+
+## Note
+
+Not very efective for inproper use; It gets detected by antivirus easily.
